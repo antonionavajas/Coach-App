@@ -1,6 +1,6 @@
 {
   "name": "coach-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -32,6 +32,9 @@
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
+    "ajv": "^6.1.1",
+    "ajv-keywords": "^3.1.0",
+    "bootstrap": "^4.0.0",
     "browser-sync": "^2.23.6",
     "codelyzer": "^4.0.1",
     "gulp": "^3.9.1",
@@ -39,14 +42,28 @@
     "gulp-sass": "^3.1.0",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
+    "jquery": "^3.3.1",
     "karma": "~2.0.0",
     "karma-chrome-launcher": "~2.2.0",
     "karma-coverage-istanbul-reporter": "^1.2.1",
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
+    "popper.js": "^1.12.9",
     "protractor": "~5.1.2",
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1",
     "typescript": "~2.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonionavajas/Coach-App.git"
+  },
+  "keywords": [],
+  "author": "Antonio Navajas Ojeda",
+  "bugs": {
+    "url": "https://github.com/antonionavajas/Coach-App/issues"
+  },
+  "homepage": "https://github.com/antonionavajas/Coach-App#readme"
 }
