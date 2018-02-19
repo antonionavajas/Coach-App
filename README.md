@@ -1,3 +1,3 @@
 # CoachApp
 
-This is an Application to manage and coach teams for the game League of Legends.
+This is an Application to manage and coach League of Legends teams.
